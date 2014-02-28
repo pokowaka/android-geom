@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest  package="math.geom" >>
+  <application>
+    <uses-library />
+  </application>
+</manifest>
